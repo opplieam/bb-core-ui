@@ -10,7 +10,7 @@ function Login() {
             Welcome to BuyBetter, Please login with
           </Text>
           <Group mb="md" mt="md">
-            <a href="/">
+            <a href="http://127.0.0.1:3030/v1/auth/google">
               <GoogleButton radius="xl">Google</GoogleButton>
             </a>
           </Group>
